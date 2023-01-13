@@ -6,8 +6,8 @@ I've been programing for the past 7 years and I love to make new tools/games for
 * 🌍  I'm based in Canada
 * 🖥️  See my portfolio at [zinck.xyz](http://www.zinck.xyz)
 * ✉️  You can contact me at [Mzinck9@gmail.com](mailto:Mzinck9@gmail.com)
-* 🧠  I'm learning next.js
-* 🤝  I'm open to collaborating on anything at all!
+* 🧠  I'm learning Angular
+* 🤝  I'm open to collaborating on anything at all, feel free to reach out to me!
 
 ### Skills
 
