@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mitchell Zinck
 ======================================================================================================================================
 
-I've been programing for the past 7 years and I love to make new tools/games for people to use.
+I've been programing for the past 8 years and I love to make new tools/games for people to use.
 
 * 🌍  I'm based in Canada
 * 🖥️  See my portfolio at [zinck.xyz](http://www.zinck.xyz)
