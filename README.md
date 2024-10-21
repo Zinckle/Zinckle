@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🌍  I'm based in Ottawa, Canada<br>🖥️  See my portfolio at [zinck.xyz](http://www.zinck.xyz)<br>✉️  You can contact me at [Mzinck9@gmail.com](mailto:Mzinck9@gmail.com)<br>🧠  I'm learning Angular<br>🤝  I'm open to collaborating on anything at all, feel free to reach out to me!<br>💬 Ask me about fishing in Ottawa<br>
 
 
